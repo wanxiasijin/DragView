@@ -19,5 +19,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
+    /**
+     * 这是测试代码 今天是2022.10.24 我爱安卓
+     */
+
 
 }
